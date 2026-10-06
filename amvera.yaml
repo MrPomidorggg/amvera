@@ -6,4 +6,4 @@ meta:
 build:
   requirementsPath: requirements.txt
 run:
-  command: python3 main.py
+  command: python3 main_bot.py
